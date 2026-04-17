@@ -16,4 +16,4 @@ All links redirect in the same tab.
 
 ## Use
 
-Open `https://gate-exploit.netlify.app` in a browser to start.
+Open the live site: [https://gate-exploit.netlify.app](https://gate-exploit.netlify.app)
