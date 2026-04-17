@@ -1,19 +1,12 @@
-# GATE Website
+# GATE
+A Chrome OS login exploit.
 
-This repository contains a two-page static website for Gate:
+Gate stands for Google Auth Tunnel Exploit.
 
-- A walkthrough page with the requested step-by-step instructions.
-- A Links page with preset site buttons and a custom URL field.
+When not in the chrome://chrome-signin page use this
 
-All links redirect in the same tab.
+[Gate Exploit Netlify](https://gate-exploit.netlify.app)
 
-## Files
+But when in the chrome://chrome-signin page click this instead.
 
-- index.html
-- links.html
-- styles.css
-- links.js
-
-## Use
-
-Open the live site: [https://gate-exploit.netlify.app](https://gate-exploit.netlify.app)
+[Gate Exploit Github](https://hpkproject.github.io/GATE)
